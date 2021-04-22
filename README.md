@@ -10,11 +10,11 @@
 *[Deployment](#deployment)
 
 
-# General information
+## General information
 The applicaction was created as tool that can be used by an developer to generate automatically the readme file.
 Using information provided by the user by answering the prompted questions on the terminal,These information are used to fill the well arranged template already made and generate a README file.
 
-## Sepcifications
+## Specifications
 
 The application is Built using following tools:
 Node.js
