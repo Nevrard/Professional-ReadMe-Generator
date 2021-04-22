@@ -11,11 +11,17 @@
 ## Table of Contents 
 
 *[Installation](#installation)
+
 *[Usage](#usage)
+
 *[License](#license)
+
 *[Credit](#credit)
+
 *[Contributing](#contributing)
+
 *[Tests](#tests)
+
 *[Questions](#questions)
       
   
