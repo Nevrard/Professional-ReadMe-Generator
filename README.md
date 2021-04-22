@@ -2,8 +2,11 @@
 
 # Table of Content
 *[General information](#general-information)
+
 *[Specifications](#specifications)
+
 *[Screenshots](#screenshots)
+
 *[Deployment](#deployment)
 
 
