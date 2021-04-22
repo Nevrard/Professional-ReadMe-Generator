@@ -55,6 +55,7 @@ Instructions to be followed  to test the application: First perform unit Test , 
 
 For moe information, please contact me at:
       
-https://github.com/Nevrard/readme generator
+https://github.com/Nevrard/readme_generator
+
 E-mail:    evrard@yahoo.fr
   
