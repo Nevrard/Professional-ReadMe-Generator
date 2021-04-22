@@ -57,7 +57,7 @@ const questions = [
       },
       {
         type: 'input',
-        message: 'Contributors fro this project?',
+        message: 'Contributors for this project?',
         name: 'contributor',
         validate:(value)=> { if(value){return true}else{return "need a response"} }
       },

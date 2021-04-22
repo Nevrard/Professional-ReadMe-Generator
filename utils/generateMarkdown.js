@@ -61,13 +61,14 @@ function generateMarkdown(data) {
   This application is built as response to the  ${data.problemSolve}
 
 ## Table of Contents 
-*[Installation](##Installation)
-*[Usage](##Usage)
+
+*[Installation](##installation)
+*[Usage](##usage)
 *[License](##License)
-*[Credit](##Credit)
-*[Contributing](##Contributing)
-*[Tests](##Tests)
-*[Questions](##Questions)
+*[Credit](##credit)
+*[Contributing](##contributing)
+*[Tests](##tests)
+*[Questions](##questions)
       
   
 ## Installation
