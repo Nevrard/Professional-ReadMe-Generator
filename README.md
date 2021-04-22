@@ -1,8 +1,8 @@
 # Weather-Dashboard
 
 # Table of Content
-*[General_Information](#general_information)
-*[Specificatons](#specification)
+*[General information](#general-information)
+*[Specifications](#specifications)
 *[Screenshots](#screenshots)
 *[Deployment](#deployment)
 
@@ -30,5 +30,7 @@ then respond to the serie of questions prompted
 
 ## Deployment
 
-Here is the Video Demo of the execution of the application
+Here is the Video Demo of the execution of the application [Demo video](https://github.com/Nevrard/Professional-ReadMe-Generator/blob/main/result/README_GENERATOR.webm)
+
+
 
