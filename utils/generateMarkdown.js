@@ -62,13 +62,13 @@ function generateMarkdown(data) {
 
 ## Table of Contents 
 
-*[Installation](##installation)
-*[Usage](##usage)
-*[License](##License)
-*[Credit](##credit)
-*[Contributing](##contributing)
-*[Tests](##tests)
-*[Questions](##questions)
+*[Installation](#installation)
+*[Usage](#usage)
+*[License](#license)
+*[Credit](#credit)
+*[Contributing](#contributing)
+*[Tests](#tests)
+*[Questions](#questions)
       
   
 ## Installation
@@ -102,8 +102,7 @@ Instructions to be followed  to test the application: ${data.test}
 For moe information, please contact me at:
       
 https://github.com/${data.username}/${data.title}
-
-    ${data.email}
+E-mail:    ${data.email}
   `;
 }
 
