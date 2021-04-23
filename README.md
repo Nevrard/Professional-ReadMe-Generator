@@ -31,9 +31,16 @@ then respond to the serie of questions prompted
 
 ![image](https://user-images.githubusercontent.com/77184762/115655171-bb24a300-a300-11eb-9257-6deaf22da34c.png)
 
+
+Link to the Readme file generated: https://github.com/Nevrard/Professional-ReadMe-Generator/blob/main/result/README.md
+
 ## Deployment
 
-Here is the Video Demo of the execution of the application [Demo video](https://github.com/Nevrard/Professional-ReadMe-Generator/blob/main/result/README_GENERATOR.webm)
+Here is the Video Demo of the execution of the application
+
+-On Github: [Demo video](https://github.com/Nevrard/Professional-ReadMe-Generator/blob/main/result/README_GENERATOR.webm)
+
+On Youtube: [Demo video](https://youtu.be/wjkfpCP_lVo)
 
 
 
