@@ -1,4 +1,4 @@
-# Weather-Dashboard
+# Professional README Generator
 
 # Table of Content
 *[General information](#general-information)
